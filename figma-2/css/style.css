@@ -1,0 +1,113 @@
+.all-division{
+    position: relative;
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.img-keyboard a{
+    position: absolute;
+    left: 12rem;
+    top: 30rem;
+    background-color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 19px;
+    color: black;
+    font-weight: 400;
+}
+
+.img-keyboard h3{
+    position: absolute;
+    left: 12rem;
+    top: 30rem;
+    font-size: 56px;
+    color: white;
+    font-weight: 800;
+}
+
+.img-sofia a{
+    position: absolute;
+    left: 12rem;
+    bottom: 38rem;
+    background-color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 19px;
+    color: black;
+    font-weight: 400;
+}
+
+.img-sofia h3{
+    position: absolute;
+    left: 12rem;
+    bottom: 32rem;
+    font-size: 40px;
+    color: white;
+    font-weight: 800;
+}
+
+.img-media a{
+    position: absolute;
+    right: 39rem;
+    bottom: 38rem;
+    background-color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 19px;
+    color: black;
+    font-weight: 400;
+}
+
+.img-media h3{
+    position: absolute;
+    right: 31rem;
+    bottom: 32rem;
+    font-size: 40px;
+    color: white;
+    font-weight: 800;
+}
+
+.img-dddone a{
+    position: absolute;
+    left: 12rem;
+    bottom: 10rem;
+    background-color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 19px;
+    color: black;
+    font-weight: 400;
+}
+
+.img-dddone h3{
+    position: absolute;
+    left: 12rem;
+    bottom: 4rem;
+    font-size: 40px;
+    color: white;
+    font-weight: 800;
+}
+
+.img-handp a{
+    position: absolute;
+    right: 39.5rem;
+    bottom: 10rem;
+    background-color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 19px;
+    color: black;
+    font-weight: 400;
+}
+
+.img-handp h3{
+    position: absolute;
+    right: 37rem;
+    bottom: 4rem;
+    font-size: 40px;
+    color: white;
+    font-weight: 800;
+}
